@@ -13,7 +13,8 @@ public final class URLConsts {
 	/**
 	 * 
 	 */
-	public static final String BASE_URL = "https://qyapi.weixin.qq.com/cgi-bin";
+//	public static final String BASE_URL = "https://qyapi.weixin.qq.com/cgi-bin";
+	public static final String BASE_URL = "https://gdrd.gov.weixin.qq.com/cgi-bin";
 	/**
 	 * 企业号获取token的url
 	 */

@@ -41,7 +41,7 @@ public class WeixinProviderTokenCreator extends TokenCreator {
 
 	@Override
 	public String uniqueid() {
-		return corpid;
+    	return this.corpid + "_" + this.providersecret;
 	}
 
 	@Override
